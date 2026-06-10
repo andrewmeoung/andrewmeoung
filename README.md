@@ -1,4 +1,5 @@
 ## Hi there 👋
+## Andrew Meoung is a Belgian based computer scientist specializing in app development and application layer security (Layer 7 of the OSI model). He specializes in Swift, XCode and Python.
 
 <!--
 **andrewmeoung/andrewmeoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
